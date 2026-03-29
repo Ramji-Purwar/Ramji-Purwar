@@ -39,4 +39,3 @@
 
 [![GitHub](https://img.shields.io/badge/GitHub-Ramji--Purwar-181717?style=flat&logo=github)](https://github.com/Ramji-Purwar)
 [![Website](https://img.shields.io/badge/Website-ramji--purwar.github.io-blue?style=flat)](https://ramji-purwar.github.io/)
-[![Codeforces](https://img.shields.io/badge/Codeforces-defender__13-1F8ACB?style=flat&logo=codeforces)](https://codeforces.com/profile/defender_13)
