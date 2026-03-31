@@ -30,7 +30,7 @@
 ## 🚀 Things I Do
 
 - Competitive programming — **Codeforces Expert (1600+)**
-- Spatial analysis & graph algorithms
+- Open Source 
 - Implementing research papers from scratch
 
 ---
